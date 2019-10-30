@@ -1,0 +1,5 @@
+.idea
+ssr-search-app-react/node_modules
+ssr-search-app-react/build
+ssr-search-app-react/dist
+ssr-search-app-react/yarn.lock
